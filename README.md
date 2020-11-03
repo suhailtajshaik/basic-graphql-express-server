@@ -1,5 +1,5 @@
-# Basic-Node-Express-Server
-Basic node express server for getting started.
+# Basic-GraphQL-Express-Server
+Basic GraphQL Express server for getting started.
 
 ## Isolated Clone
 ```
